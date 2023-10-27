@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kiran16122002
-- 👀 I’m interested in coding and webdevelopment
+- 👀 I’m interested in coding and web development
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me 
