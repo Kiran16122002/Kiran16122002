@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kiran16122002
 - 👀 I’m interested in coding and web development
-- 🌱 I’m currently learning react
+- 🌱 I’m a mern stack developer
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me 
 
