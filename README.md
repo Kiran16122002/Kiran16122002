@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kiran16122002
+- 👋 Hi, I’m Kiran Muddam 
 - 👀 I’m interested in coding and web development
-- 🌱 I’m a mern stack developer
-- 💞️ I’m looking to collaborate on projects
+- 🌱 I’m a full stack developer
+- 💞️ I’m looking forward to showcase my skills and collaborate with others to learn new things.
 - 📫 How to reach me 
 
 <!---
